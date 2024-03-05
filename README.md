@@ -1,3 +1,1 @@
-# ALXR-nightly
-
-This repository is for nightly builds of the [ALXR client](https://github.com/korejan/ALVR/wiki/ALXR-Client), stable release builds can be found [here](https://github.com/korejan/ALVR/releases), more details can be found [here](https://github.com/korejan/ALVR/wiki/ALXR-Client).
+Very much a WIP. At any given point this will very likely not work. This repo is more for me to collect my thoughts than to publish working builds as of now. To anybody seeing this, Hi!! :3
